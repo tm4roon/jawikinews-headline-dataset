@@ -11,23 +11,17 @@ In this repository, there are following three version datasets according to the 
 ## Data Statistics
 <p align="center">
 Table1 Number of documents
-
-|    dataset    |   # doc.    | Mean # words in articles | Mean # words in headlines |
-| :-----------: | :---------: | :----------------------: | :-----------------------: |
-| full-articles |    3,670    |           465.3          |           13.39           |
-| long version  |    3,670    |           181.9          |           13.39           |
-| short version |    3,589    |           93.79          |           13.33           |
 </p>
 
-<br>
-<br>
+<p align="center">
+<img src=https://user-images.githubusercontent.com/53220859/65479667-50fc1000-dec9-11e9-93d2-b614e6ce930b.png>
+</p>
+
 
 <p align="center">
 Table2 N-gram overlaps in headline
+</p>
 
-|    dataset    | uni-gram [%] | bi-gram [%] | tri-gram [%] | 4-gram [%] |
-| :-----------: | :----------: | :---------: | :----------: | :--------: |
-| full-articles |    93.43     |    52.02    |    30.75     |   17.75    |
-| long version  |    86.73     |    37.48    |    19.33     |   10.15    |
-| Short version |    80.79     |    32.20    |    16.34     |   8.246    |
+<p align="center">
+<img src=https://user-images.githubusercontent.com/53220859/65479670-52c5d380-dec9-11e9-8b0a-5600f18b749c.png>
 </p>
