@@ -1,4 +1,4 @@
-# Japanese Wikinews Headline Dataset
+# Japanese-Wikinews Headline Dataset
 The datasets contain article-headline pairs obtained from [Japanese Wikinews](https://ja.wikinews.org/wiki/). 
 The articles and headlines are segmented to words using [mecab-ipadic](https://taku910.github.io/mecab/).
 
